@@ -69,5 +69,5 @@ if sumaOdbiorcy == sumaNadawcy:
     else:
         print((o)+":",sumaOdbiorcy)
 else:
-    print(str(n) + ":",sumaNadawcy)
-    print(str(o)+":",sumaOdbiorcy)
+    print(str(n) + ": ",sumaNadawcy)
+    print(str(o)+": ",sumaOdbiorcy)
